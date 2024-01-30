@@ -1,0 +1,10 @@
+.image.is-4by3 {
+  padding-top: 60%;
+  height: 100px;
+}
+
+.card .media:not(:last-child) {
+  margin-bottom: 5%;
+  
+}
+
